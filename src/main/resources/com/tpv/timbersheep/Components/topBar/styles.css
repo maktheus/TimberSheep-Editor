@@ -1,0 +1,16 @@
+.custom-title-bar {
+    -fx-background-color: #336699;
+    -fx-spacing: 10;
+}
+
+.custom-title-label {
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+}
+
+.custom-button {
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #336699;
+    -fx-border-color: #ffffff;
+    -fx-border-width: 2;
+}
