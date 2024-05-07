@@ -9,7 +9,6 @@
 <?import javafx.geometry.Insets?>
 <BorderPane xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="com.tpv.timbersheep.controllers.main.MainController">
     <top>
-    <fx:include source="/Components/topBar/tobBarComponent.fxml" />
     </top>
     <center>
         <VBox alignment="CENTER" spacing="20.0">
